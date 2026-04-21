@@ -5,7 +5,7 @@ Uma operação está sendo iniciada neste momento.
 
 🔫 Equipem-se corretamente e estejam prontos para agir.
 📡 Comunicação limpa e direta — evitem conversas desnecessárias.
-👥 Cada membro deve seguir sua função conforme a hierarquia.
+👥 Cada membro deve seguir sua função conforme a hierarquia..
 
 ⚠️ Lembrem-se:
 
